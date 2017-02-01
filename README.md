@@ -1,7 +1,7 @@
-# App name
+# Chargebee Zendesk Plugin
 
 [brief description of the app]
-
+<!-- 
 ### The following information is displayed:
 
 * info1
@@ -11,4 +11,4 @@
 Please submit bug reports to [Insert Link](). Pull requests are welcome.
 
 ### Screenshot(s):
-[put your screenshots down here.]
+[put your screenshots down here.] -->
