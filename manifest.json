@@ -1,0 +1,19 @@
+{
+  "name": "Chargebee-Zendesk",
+  "author": {
+    "name": "Ajit Verma",
+    "email": "aajitverma001@gmail.com",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location":   {
+    "support": {
+      "ticket_sidebar": "https://app.localcb.in:8443/zendesk/ticket",
+      "user_sidebar" : "https://app.localcb.in:8443/zendesk/user"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0",
+  "domainWhitelist":["app.localcb.in:8443"]
+}
