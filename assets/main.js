@@ -11,7 +11,7 @@ $(function() {
     location.href = "https://app.eu.chargebee.com/zendesk/ticket" + location.search;
     break;
   default :
-    location.href = "https://app.devcb.in/zendesk/ticket" + location.search;
+    location.href = "https://app.chargebee.com/zendesk/ticket" + location.search;
     break;
  }
 });

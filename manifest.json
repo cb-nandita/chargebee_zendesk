@@ -15,7 +15,7 @@
     },
     "version": "1.0",
     "frameworkVersion": "2.0",
-    "domainWhitelist": ["app.devcb.in","app.eu.chargebee.com","app.au.chargebee.com"],
+    "domainWhitelist": ["app.chargebee.com","app.eu.chargebee.com","app.au.chargebee.com"],
     "parameters": [{
       "name": "region",
       "type": "text",
