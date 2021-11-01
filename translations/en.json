@@ -1,6 +1,8 @@
 {
     "app": {
         "description": "Displays Chargebee customer and subscription details next to the support ticket.",
-        "name": "Chargebee"
+        "name": "Chargebee",
+        "installation_instructions": "dsd",
+        "long_description": "sds"
     }
 }
