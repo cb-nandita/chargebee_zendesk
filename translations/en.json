@@ -2,7 +2,7 @@
     "app": {
         "description": "Displays Chargebee customer and subscription details next to the support ticket.",
         "name": "Chargebee",
-        "installation_instructions": "dsd",
-        "long_description": "sds"
+        "installation_instructions": "For region, input 'us', 'eu', or 'au'. All other inputs defaults to 'us'.",
+        "long_description": "This integration fetches customer’s subscription details from Chargebee and makes it available right next to the support ticket. Furthermore, there is a link in the card that redirects you to Chargebee for more information. Your support personnel no longer need to spend valuable time looking up relevant information."
     }
 }

@@ -13,7 +13,7 @@
             "user_sidebar": "assets/iframe.html"
         }
     },
-    "version": "1.0",
+    "version": "2.0",
     "frameworkVersion": "2.0",
     "domainWhitelist": ["app.chargebee.com","app.eu.chargebee.com","app.au.chargebee.com"],
     "parameters": [{
