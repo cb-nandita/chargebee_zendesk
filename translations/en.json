@@ -2,8 +2,8 @@
     "app": {
         "description": "Displays Chargebee customer and subscription details next to the support ticket.",
         "name": "Chargebee",
-        "installation_instructions": "For region, input 'us', 'eu', or 'au'. All other inputs defaults to 'us'.",
-        "long_description": "This integration fetches customer’s subscription details from Chargebee and makes it available right next to the support ticket. Furthermore, there is a link in the card that redirects you to Chargebee for more information. Your support personnel no longer need to spend valuable time looking up relevant information.",
+        "installation_instructions": "Step 1: [Sign up with Chargebee](https://www.chargebee.com/trial-signup/) (If you already have an account, skip this step)\nStep 2: Click \"Install\"\nStep 3: For \"Region\", input 'us', 'eu', or 'au'. All other inputs defaults to 'us'.\nStep 4: You'll be able to see the Chargebee widget on the ticket details page in Zendesk with the following information: Request to log in to your Chargebee account (if you are not already logged in to Chargebee), or Subscription details of the corresponding requestor (if you are already logged in to Chargebee)",
+        "long_description": "<--Same as existing-->",
         "parameters": {
            "region": {
               "label": "Region",
