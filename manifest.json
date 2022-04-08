@@ -1,5 +1,5 @@
 {
-    "name": "Chargebee-Zendesk",
+    "name": "Chargebee-Zendesk-Local",
     "author": {
         "name": "Chargebee",
         "email": "support@chargebee.com",
@@ -15,7 +15,7 @@
     },
     "version": "2.0",
     "frameworkVersion": "2.0",
-    "domainWhitelist": ["app.chargebee.com","app.eu.chargebee.com","app.au.chargebee.com"],
+    "domainWhitelist": ["app.predev38.in","app.eu.chargebee.com","app.au.chargebee.com"],
     "parameters": [{
       "name": "region",
       "type": "text",
